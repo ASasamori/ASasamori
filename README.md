@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi! I'm Andrew Sasamori, a student studying Computer Engineering at Boston University! I'm originally from Mountain View, California, but have lived in Honolulu, Huntsville, and Boston!
+
+
 
 <!--
 **ASasamori/ASasamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
