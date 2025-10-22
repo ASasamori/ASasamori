@@ -1,6 +1,8 @@
 Hi! I'm Andrew Sasamori, a student studying Computer Engineering at Boston University! I'm originally from Mountain View, California, but have lived in Honolulu, Huntsville, and Boston!
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=carddealer3000&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=carddealer3000&redirect=true)
+<!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=carddealer3000&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=carddealer3000&redirect=true)
+-->
+
 
 
 <!--
